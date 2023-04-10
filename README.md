@@ -11,15 +11,15 @@ Buscando transcrever a melodia do clássico filme de **Harry Potter**, esse proj
 ## Tecnologias Utilizadas
 - Arduino
 - Componentes Eletrônicos
-- Línguagem C
+- Línguagem C++
 
 ## Como executar o projeto
 ```bash
 # clonar repositório
-git clone https://github.com/PhilTisoni/HarryPotterTheme
+git clone https://github.com/PhilTisoni/Arduino-Harry_Potter_Theme.git
 
 # executar o projeto
-./HarryPotterTheme spring-boot:run
+./Arduino-Harry_Potter_Theme spring-boot:run
 ```
 Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
 
