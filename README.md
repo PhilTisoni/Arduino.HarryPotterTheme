@@ -17,9 +17,6 @@ Buscando transcrever a melodia do clássico filme de **Harry Potter**, esse proj
 ```bash
 # clonar repositório
 git clone https://github.com/PhilTisoni/Arduino-Harry_Potter_Theme.git
-
-# executar o projeto
-./Arduino-Harry_Potter_Theme spring-boot:run
 ```
 Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
 
@@ -54,6 +51,8 @@ Esses componentes podem ser encontrados facilmente em uma loja de eletrônica da
                            Esquema da Montagem do Circuito Eletrônico
  
 Conecte os componentes como a imagem acima, tenha **cuidado** para não confundir os terminais positivos e negativos, então, tente conectar **exatamente** como a figura. Caso você **não tenha experiência**, estou deixando alguns <a href = "#Materiais-Complementares">materiais complementares</a> no final desse documento.
+
+Confira se o LED e o Buzzer estão conectados nos mesmos pinos setados no **código Arduino** (na pasta assets é possível verificar outra configuração de montagem).
 
 **Dica:** A intensidade e o timbre da música são modificados ao alterar o valor do resistor, você pode experimentar valores diferentes ou utilizar um potenciômetro para obter maior controle.
 
