@@ -16,7 +16,7 @@ Buscando transcrever a melodia do clássico filme de **Harry Potter**, esse proj
 ## Como executar o projeto
 ```bash
 # clonar repositório
-git clone https://github.com/PhilTisoni/Arduino-Harry_Potter_Theme.git
+git clone https://github.com/PhilTisoni/Arduino.HarryPotterTheme.git
 ```
 Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
 
