@@ -9,16 +9,22 @@ Projeto Arduino da música tema de **Harry Potter**.
 Buscando transcrever a melodia do clássico filme de **Harry Potter**, esse projeto utiliza componentes eletrônicos de fácil acesso e propõe um estudo interessante sobre música. 
 
 ## Tecnologias Utilizadas
-- Arduino
+- [Arduino](https://www.arduino.cc/)
 - Componentes Eletrônicos
 - Línguagem C++
 
-## Como executar o projeto
+# Como Clonar o Projeto
+
+- Instale o [Git](https://git-scm.com/downloads) no seu computador. Durante a instalação, certifique-se se a opção **Git Bash** está adicionada.
+- Após a instalação, crie uma pasta em sua área de trabalho
+- Dentro da pasta, clique com o botão direito e selecione **Git Bash Here**
+- Após abrir o terminal, copie o seguinte comando:
+   
 ```bash
-# clonar repositório
 git clone https://github.com/PhilTisoni/Arduino.HarryPotterTheme.git
 ```
 Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
+
 
 # Índice
 
