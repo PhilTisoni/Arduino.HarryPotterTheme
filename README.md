@@ -9,7 +9,7 @@ Projeto Arduino da música tema de **Harry Potter**.
 Buscando transcrever a melodia do clássico filme de **Harry Potter**, esse projeto utiliza componentes eletrônicos de fácil acesso e propõe um estudo interessante sobre música. 
 
 ## Tecnologias Utilizadas
-- [Arduino](https://www.arduino.cc/)
+- Arduino
 - Componentes Eletrônicos
 - Línguagem C++
 
